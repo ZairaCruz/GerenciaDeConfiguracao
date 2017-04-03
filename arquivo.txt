@@ -1,7 +1,7 @@
-Trabalho sobre gerência de configuração - Valor 40% da prova - Individual
+Trabalho sobre gerencia de configuracao - Valor 40% da prova - Individual
 
-O que é a gerência de configuração?
-O que são itens de configuração?
+O que é a gerencia de configuracao?
+O que sao itens de configuracao?
 De acordo com o MPS.BR, quais os resultados esperados para o processo de gerência de configuração?
 Como se dá o processo de gerência de configuração (exemplifique e indique softwares/ferramentas que auxiliem esse tipo de gerência)?
 GitHub
@@ -11,3 +11,5 @@ Criar um conta e postar um ou mais documentos (informar o endereço da sua conta 
 Fazer alterações no(s) documento(s) e envia-lo novamente ao repositório (capturar "print" da tela e postar no trabalho)
 Obs: Se necessário, o professor irá solicitar ao aluno que mostre o repositório com o histórico de mudanças
 NÃO FAÇA OU PASSE CÓPIAS DO TRABALHO. SE DETECATADAS O TRABALHO SERÁ ANULADO E OS ENVOLVIDOS FICARÃO COM NOTA ZERO.
+
+ulttima alteração!!!!
